@@ -8,6 +8,19 @@ Test the Tk installation, if it works properly it should open a small demo windo
 python -m tkinter
 ```
 
+## Exercise
+
+### Description
+
+Write a simple chat client GUI based on Tk.
+The functionality is not important.
+
+### Requirements
+
+- A label with the program name
+- A entry field and a button to send messages
+- A text widget for the chat history
+
 ## Links
 
 - [Pythons tk interface](https://docs.python.org/3/library/tkinter.html)
