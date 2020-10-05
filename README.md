@@ -13,7 +13,7 @@ Linux / OSX
 
 ```sh
 python -m venv .venv  # could also be python3
-source .venv/Scripts/activate
+source .venv/bin/activate
 ```
 
 Windows - cmd.exe
